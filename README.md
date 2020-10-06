@@ -4,7 +4,7 @@
 <img src="images/TTC.gif">
 </p>
 
-This project is the third in Udacity's Sensor Fusion Nanodegree. The project covers all parts shown below in the TTC Building blocks.
+The project covers all parts shown below in the TTC Building blocks.
 
 <p align="center">
 <img src="images/TTC-building-blocks.png">
